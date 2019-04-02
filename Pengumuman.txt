@@ -1,1 +1,1 @@
-Selamat datang ke <b><color="red">MyFaces</color></b> Version 1.0.0.17! (Face Activation College E-Attendance System)
+Selamat datang ke <b><color="yellow">My</color><color="red">Faces</color></b> Version 1.0.0.17! (Face Activation College E-Attendance System)
